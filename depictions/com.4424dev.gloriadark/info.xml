@@ -1,0 +1,20 @@
+<package>
+	<id>com.4424dev.gloriadark</id>
+	<name>Gloria Dark</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A beautiful and unique dark theme. Apply with SnowBoard.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

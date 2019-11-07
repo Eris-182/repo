@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Theo dõi Facebook</name>
+			<url>https://www.facebook.com/server.quangsang</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Theo dõi Instagram</name>
+			<url>https://www.instagram.com/meomeo056</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</footerlinks>
+</repo>

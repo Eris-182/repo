@@ -1,0 +1,20 @@
+<package>
+	<id>com.dark.ew1pagedots_1.0_iphoneos-arm</id>
+	<name>EW1 PageDots</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Làm đẹp trang dot.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,14 @@
+Package: com.4424dev.gloriadark
+Name: Gloria Dark
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A beautiful and unique dark theme.
+Maintainer: 4424dev <support@4424club.xyz>
+Author: 4424dev <support@4424club.xyz>
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.4424dev.gloriadark_1.0.0_iphoneos-arm.deb
+Size: 225724
+MD5sum: 8688797cf2c7661143a97088f31de38c
+SHA1: d71e5f9e60dd4b927e1407bc72f70055fa3145bf
+SHA256: 1e476dd18630b599362391a9dcb2cf20be58047876f123200fe59394d28d2ef2
